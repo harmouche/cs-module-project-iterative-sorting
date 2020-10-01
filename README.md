@@ -192,6 +192,8 @@ harder to understand.
 As an example, here's a non-in-place Quicksort, which seems to be generally
 clearer than the in-place variant, but uses far more memory:
 
+As an example, here's a non-in-place Quicksort, which seems to be generally
+clearer than the in-place variant, but uses far more memory:
 ```python
 def partition(data):
     left = []
