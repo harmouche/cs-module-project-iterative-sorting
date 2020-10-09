@@ -5,6 +5,13 @@
 ## Iterative Sorting
 
 ## Objectives
+# Module Project - Iterative Sorting
+
+## Algorithms
+
+## Iterative Sorting
+
+## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
