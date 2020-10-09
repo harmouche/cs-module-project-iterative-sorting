@@ -5,6 +5,18 @@
 ## Iterative Sorting
 
 ## Objectives
+# Module Project - Iterative Sorting
+
+## Algorithms
+
+## Iterative Sorting
+
+
+## Algorithms
+
+## Iterative Sorting
+
+## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
@@ -192,6 +204,8 @@ harder to understand.
 As an example, here's a non-in-place Quicksort, which seems to be generally
 clearer than the in-place variant, but uses far more memory:
 
+As an example, here's a non-in-place Quicksort, which seems to be generally
+clearer than the in-place variant, but uses far more memory:
 ```python
 def partition(data):
     left = []
