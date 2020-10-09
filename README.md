@@ -11,6 +11,11 @@
 
 ## Iterative Sorting
 
+
+## Algorithms
+
+## Iterative Sorting
+
 ## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
